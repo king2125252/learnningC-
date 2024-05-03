@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713790431 source:c:\users\user\desktop\422c++\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+
+1713789922 c:\program files\codeblocks\mingw\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

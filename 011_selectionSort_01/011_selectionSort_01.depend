@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702472044 source:f:\001_university\c++learn\011_selectionsort_01\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+

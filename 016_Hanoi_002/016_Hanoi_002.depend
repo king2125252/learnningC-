@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708949550 source:f:\001_university\c++learn\016_hanoi_002\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702426922 source:f:\001_university\c++learn\010_array_01\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1702426922 source:e:\001_university\c++learn\010_array_01\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+

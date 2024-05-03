@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1703076990 source:f:\001_university\c++learn\013_shuffle_01\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+

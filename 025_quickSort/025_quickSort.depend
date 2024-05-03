@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711977878 source:e:\001_university\c++learn\025_quicksort\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
