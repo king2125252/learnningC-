@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1715003510 source:c:\nuu_backup\001_university\c++learn\0506_myarray1d\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1715000230 c:\nuu_backup\001_university\c++learn\nuu\nuu.h
+	<iostream>
+	<iomanip>
+

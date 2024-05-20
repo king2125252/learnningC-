@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1715574781 source:c:\nuu_backup\001_university\c++learn\0513_stack\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"nsUtil\nsUtil.h"
+
+1715574881 c:\nuu_backup\001_university\c++learn\0513_stack\nsutil\nsutil.h
+
