@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716180565 source:c:\nuu_backup\001_university\c++learn\0520-hanoiclass\main.cpp
+	<iostream>
+	<iomanip>
+	"nsUtil\nsUtil.hpp"
+
+1716182000 c:\nuu_backup\001_university\c++learn\0520-hanoiclass\nsutil\nsutil.hpp
+	<iomanip>
+
